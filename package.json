@@ -1,6 +1,6 @@
 {
   "name": "unexpected-zurvan",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Plugin for unexpected allowing control of fake timers using the zurvan library.",
   "main": "index.js",
   "scripts": {
